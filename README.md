@@ -11,6 +11,6 @@ The file bom/ibom.html is an interactive BOM that will show component position a
 
 Have fun.
 
-![image]("./ZX Interface 1 New Layout SMD PLCC Narrow.jpg "IF1 PLCC Narrow Layout")
+![image]("./ZX-Interface-1-New-Layout-SMD-PLCC-Narrow.jpg" "IF1 PLCC Narrow Layout")
 
 Comments - Good Bad or totally indifferent on https://www.facebook.com/groups/zxspa/
