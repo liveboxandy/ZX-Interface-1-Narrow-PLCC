@@ -1,0 +1,252 @@
+(footprint "LQH2MCN100K02L"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "0806 (2016) T=0.9±0.05mm")
+	(tags "Inductor")
+	(property "Reference" "REF**"
+		(at 3.513375 -0.0326 270)
+		(layer "F.SilkS")
+		(uuid "e6c440a9-509b-463b-9d12-99aa687a5dae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "22uH 0.41A"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7d6ce5c8-c166-4473-901b-5e227462c791")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9638cfa7-e11b-40f4-b9de-1bc1d435ff9d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "LQH2MPN_GR Series Inductor 22uH +/-20% 0806 (2016)"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8b19f96-a325-41da-be22-007f01243504")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "0.95"
+		(at 261.2893 31.0747 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4bfed3fa-fdaa-4ce5-8104-e65ce50a4c01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Murata Electronics"
+		(at 261.2893 31.0747 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7082676e-ae0d-433b-8f6f-153a3818348f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "LQH2MPN220MGRL"
+		(at 261.2893 31.0747 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6835a814-6a8c-430a-aa94-415545d44db6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "81-LQH2MPN220MGRL"
+		(at 261.2893 31.0747 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b2e9626-6439-4f6f-8b50-420aab709b5d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH2MPN220MGRL?qs=AlcXFAMbscBPL110APHcGw%3D%3D"
+		(at 261.2893 31.0747 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2700b156-39d6-443e-ac2f-3b1b8d7df536")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "Microdrive IO")
+	(sheetfile "Microdrive_IO.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1 -0.8)
+		(end 1 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4354c634-0ae0-478d-a7e1-58dada36d2ee")
+	)
+	(fp_line
+		(start -1 0.8)
+		(end 1 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "34d13d61-2b2d-4112-95c7-6646901dd629")
+	)
+	(fp_line
+		(start -2.3 -1.8)
+		(end 2.3 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c67fa5c9-a92f-497d-bb79-9c2abb7ce863")
+	)
+	(fp_line
+		(start -2.3 1.8)
+		(end -2.3 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a5503291-e974-42c3-b35d-955fedf2f6fd")
+	)
+	(fp_line
+		(start 2.3 -1.8)
+		(end 2.3 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6f2127f2-3aec-4d54-9aa1-b8cc958752b2")
+	)
+	(fp_line
+		(start 2.3 1.8)
+		(end -2.3 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "38116d49-3ff4-496c-b0cc-51af7d76885c")
+	)
+	(fp_line
+		(start -1 -0.8)
+		(end 1 -0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "25dfd4f9-568e-48fe-b539-e2feb69a07e9")
+	)
+	(fp_line
+		(start -1 0.8)
+		(end -1 -0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "94dd60e1-3273-4759-b549-a866bf44b752")
+	)
+	(fp_line
+		(start 1 -0.8)
+		(end 1 0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "812f291c-e845-4348-a793-4744cf7bf744")
+	)
+	(fp_line
+		(start 1 0.8)
+		(end -1 0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "244e4b8a-46dc-4684-8bca-5ae81faa71d3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "34ce4af0-0ace-4a99-8bd2-6b86f8407a34")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.85 0)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ec66090d-9fcc-41a6-9274-8513bc9f1252")
+	)
+	(pad "2" smd rect
+		(at 0.85 0)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d33b0950-b458-4e44-9a0b-10d7e81c7b46")
+	)
+	(embedded_fonts no)
+	(model "C:\\Kicad\\Interface1_Parts.3dshapes\\LQH2MPN220MGRL.stp"
+		(offset
+			(xyz 0 0 0.8600000014)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

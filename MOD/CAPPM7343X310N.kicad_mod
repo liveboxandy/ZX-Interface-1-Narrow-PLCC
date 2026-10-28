@@ -1,0 +1,261 @@
+(footprint "CAPPM7343X310N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Case D-ren1")
+	(tags "Capacitor Polarised")
+	(property "Reference" "REF**"
+		(at 6.035675 -0.06985 180)
+		(layer "F.SilkS")
+		(uuid "1930d8c2-8a3a-440c-b96e-7582ef119634")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "47uF 16V"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "442013d8-ce61-45af-8a35-893153a2b2ea")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcffb827-3a3a-46ac-b91a-3c59d082b5a1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Solid Tantalum Surface Mount Chip Capacitors TANTAMOUNT(TM), Molded Case, Standard Industrial Grade"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da64ffe6-9e37-4e4c-9c78-fe5926f00f97")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "3.1"
+		(at 278.4348 299.1738 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c9026ee-44f0-45c0-8fdd-d9e4d05d4eee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Vishay"
+		(at 278.4348 299.1738 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4775c85b-7641-4971-b263-ba904692eeed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "293D476X9016D2TE3"
+		(at 278.4348 299.1738 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e15c9a10-ded6-49ee-aff6-ef62a88f7721")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "74-293D476X9016D2TE3"
+		(at 278.4348 299.1738 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10487452-17a0-4a5f-9428-8f5cb10f02b2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D476X9016D2TE3?qs=L4BSZja3YaJi42fBSOp3ww%3D%3D"
+		(at 278.4348 299.1738 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60984eaa-7e47-49f0-ad1d-6631770909f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetfile "ZX Interface 1 New Layout SMD PLCC Narrow.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.65 2.15)
+		(end 3.65 2.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f2bef36-d470-4f23-8bc1-89de181a76b9")
+	)
+	(fp_line
+		(start 3.65 -2.15)
+		(end -4.275 -2.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4c7ee95a-5151-4fa5-a0ba-f6e9e83fe724")
+	)
+	(fp_line
+		(start -4.525 -2.55)
+		(end 4.525 -2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "94f28a66-e6b6-40fd-83f0-34340dd2ed88")
+	)
+	(fp_line
+		(start -4.525 2.55)
+		(end -4.525 -2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "756767b1-085c-4e0c-8eac-a215b95c1924")
+	)
+	(fp_line
+		(start 4.525 -2.55)
+		(end 4.525 2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "70b584aa-361c-455a-864e-9c23674328ac")
+	)
+	(fp_line
+		(start 4.525 2.55)
+		(end -4.525 2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "355aeee4-65fd-43a4-b89d-f28190be47dc")
+	)
+	(fp_line
+		(start -3.65 -2.15)
+		(end 3.65 -2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dddbebc9-1b61-402e-956e-a3db4079f7ed")
+	)
+	(fp_line
+		(start -3.65 -0.975)
+		(end -2.475 -2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "58ceb1a4-2adf-40c8-8ac8-70bb6576aaae")
+	)
+	(fp_line
+		(start -3.65 2.15)
+		(end -3.65 -2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "19557704-7118-47bc-84fb-ef3a07747ca1")
+	)
+	(fp_line
+		(start 3.65 -2.15)
+		(end 3.65 2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "92a0c126-c51a-4bb5-a590-e4d762e2a96f")
+	)
+	(fp_line
+		(start 3.65 2.15)
+		(end -3.65 2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2497ed29-bebd-4942-af08-359fb53ce60b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "5a00ba58-3793-4beb-81c4-f2a81936cad8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.1 0)
+		(size 2.35 2.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e4d283bd-5288-47f1-909f-498fa06a276a")
+	)
+	(pad "2" smd rect
+		(at 3.1 0)
+		(size 2.35 2.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "283aedd0-41de-4dd8-baaf-96ea7b3e05d6")
+	)
+	(embedded_fonts no)
+	(model "C:\\Kicad\\Interface1_Parts.3dshapes\\293D476X9016D2TE3.stp"
+		(offset
+			(xyz -3.58999986 -3.670000021 0.5899999649)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)
